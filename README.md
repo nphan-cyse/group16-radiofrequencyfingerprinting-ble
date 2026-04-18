@@ -1,19 +1,15 @@
-# Group16 Collaborative Github
+# Group16 Github
 
 # Please read carefully
-This is Group 16 Radio Frequency Fingerprinting collaborative Github.\
-**OPTIONAL** but you can upload the data that you collect with your SDR on here for other groupmembers to observe and play around with.\
-Any changes should be made in your own branch. 
+This is Group 16 Radio Frequency Fingerprinting Github.\
+The following work is for Radio Frequency-Based Fingerprinting on the physical layer for Bleutooth Low Energy (BLE) device authentication. \
+Uploaded files are from our generated synthetic BLE signals using MATLAB \
+* [https://www.mathworks.com/help/bluetooth/ref/bluetoothlewaveformgenerator-app.html] \
 
 ## Rules
-* When you add a dataset or anything please commit it to your own branch. This way your work is your own and since this is a collaborative respository, please do not alter anything that is not yours.
-* Please do not make any changes to the main branch. 
-* Feel free to add anything that you like however, anything added should be tagged with your name for credentials. 
+* Please do not make any changes
+* Please do not request to make any changes or become a collaborator
+* Please respect all files and be cautious of any work following these files
 
-## If this is your first time using Github 
-Please check out some of these links on how to use Github:
-* [https://docs.github.com/en/get-started/start-your-journey/hello-world]\
-* [https://docs.github.com/en/get-started]\
-* [https://docs.github.com/en/get-started/git-basics/set-up-git]\
-* [https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories]\
-* [https://observablehq.com/@triptych/how-to-import-a-dataset-from-github]
+# Paper Documentation of Project
+* update
