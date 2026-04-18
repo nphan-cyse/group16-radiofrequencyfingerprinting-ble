@@ -3,7 +3,7 @@
 # Please read carefully
 This is Group 16 Radio Frequency Fingerprinting Github.\
 The following work is for Radio Frequency-Based Fingerprinting on the physical layer for Bleutooth Low Energy (BLE) device authentication. \
-Uploaded files are from our generated synthetic BLE signals using MATLAB \
+Uploaded files are from our generated synthetic BLE signals using MATLAB
 * [https://www.mathworks.com/help/bluetooth/ref/bluetoothlewaveformgenerator-app.html]
 
 ## Rules
